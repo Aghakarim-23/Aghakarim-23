@@ -13,6 +13,9 @@ I’m currently working on full-stack projects to strengthen both frontend and b
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aghakarim-23&theme=dracula&hide_border=true)<br/>
+
 ## 🛠 Tech Stack
 - **Languages:** JavaScript (ES6+)
 - **Frontend:** React, Next.js, Tailwind CSS
