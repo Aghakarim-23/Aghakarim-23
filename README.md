@@ -78,5 +78,7 @@ A modern consulting company website built with a clean design and scalable front
 - Building fully functional full-stack apps  
 - Writing clean, reusable code
 
+  
+
 
 
