@@ -77,6 +77,7 @@ A modern consulting company website built with a clean design and scalable front
 - Improving React & Next.js skills  
 - Building fully functional full-stack apps  
 - Writing clean, reusable code
+
   
 
 
